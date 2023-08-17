@@ -1,6 +1,10 @@
 
 ### 👋 Olá! Bem-vindo ao meu perfil do Github.
 ## Tecnologias 
+<div>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  
+</div>
 ## Contatos:
 
 <div>
