@@ -9,14 +9,11 @@
 </div>
   
 ### Ferramentas e Tecnologias
-.icon {
-    width: 30px; /* Defina o tamanho desejado */
-    height: 30px; /* Defina o tamanho desejado */
-  }
-<img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Ícone C">
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="Ícone CSS">
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Ícone HTML">
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Ícone JavaScript">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 ## Contatos:
 <div>
