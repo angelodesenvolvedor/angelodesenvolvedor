@@ -1,5 +1,9 @@
-### Hi there 👋
 
+### 👋 Olá! Bem-vindo ao meu perfil do Github.
+### Tecnologias 
+### <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+### <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+### <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <!--
 **angelodesenvolvedor/angelodesenvolvedor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
