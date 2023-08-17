@@ -7,7 +7,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=angelodesenvolvedor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-### Linguagens de Programação que utilizo
+### Linguagens de Programação 
 
 <div class="image-container">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> 
@@ -16,6 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 </div>
 
+## Tecnologias que utilizo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 
 ## Contatos
 
