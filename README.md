@@ -8,7 +8,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=angelodesenvolvedor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-### Ferramentas e Tecnologias
+### Linguagens de Programação que utilizo
 
 <div class="image-container">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> 
