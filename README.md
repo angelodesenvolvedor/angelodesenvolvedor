@@ -19,6 +19,7 @@
 ## Tecnologias que utilizo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 
+![Snake animation](https://github.com/angelodesenvolvedor/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos
 
