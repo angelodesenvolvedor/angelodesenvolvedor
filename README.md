@@ -1,5 +1,5 @@
 
-### 👋 Olá! Bem-vindo ao meu perfil do Github.
+### 👋 Olá! 
 
 <div>
 <a href="https://github.com/angelodesenvolvedor">
