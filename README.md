@@ -17,9 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 </div>
 
-## Tecnologias que utilizo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-
 ## Estou aprendendo 
 
 <div class="image-container">
