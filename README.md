@@ -15,10 +15,12 @@
 </div>
 
 ## Estou aprendendo 
+
 <div class="image-container">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
 </div>
+
 
 <div>
 <a href="https://github.com/angelodesenvolvedor">
