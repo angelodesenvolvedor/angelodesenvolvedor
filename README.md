@@ -4,7 +4,6 @@
 
 - 💻📚 Atualmente, estou cursando Bacharelado em Tecnologia da Informação.
   
-  
 ### Minhas Habilidades
 
 <div class="image-container">
