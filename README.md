@@ -2,10 +2,10 @@
 ###  Olá! eu sou o Ângelo Silvano
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 💻📚 Atualmente estou estudando em Bacharelado Tecnologia da Informação
+- 💻📚 Atualmente, estou cursando Bacharelado em Tecnologia da Informação.
   
   
-### Linguagens de Programação 
+### Minhas Habilidades
 
 <div class="image-container">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /> 
