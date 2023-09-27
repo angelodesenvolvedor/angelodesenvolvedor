@@ -1,5 +1,5 @@
 
-### 👋 Olá! eu sou o Ângelo Silvano, estudante de programação 
+### 👋 Olá! eu sou o Ângelo Silvano
 
 <div>
 <a href="https://github.com/angelodesenvolvedor">
