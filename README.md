@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
 </div>
 
+## Estatísticas GitHub
+📊 Aqui estão algumas estatísticas do meu GitHub:
 
 <div>
 <a href="https://github.com/angelodesenvolvedor">
