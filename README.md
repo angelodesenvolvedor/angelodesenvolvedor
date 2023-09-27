@@ -21,7 +21,7 @@
 </div>
 
 ## Estatísticas GitHub
-📊 Aqui estão algumas estatísticas do meu GitHub:
+- 📊 Aqui estão algumas estatísticas do meu GitHub:
 
 <div>
 <a href="https://github.com/angelodesenvolvedor">
