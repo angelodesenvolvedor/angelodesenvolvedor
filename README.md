@@ -22,7 +22,6 @@
 
 ## Estatísticas GitHub
 - 📊 Aqui estão algumas estatísticas do meu GitHub:
-
 <div>
 <a href="https://github.com/angelodesenvolvedor">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelodesenvolvedor&layout=compact&langs_count=7&theme=dracula"/>
