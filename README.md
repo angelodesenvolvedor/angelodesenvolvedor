@@ -2,6 +2,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 💻📚 Atualmente, estou cursando Bacharelado em Tecnologia da Informação.
+
+- https://tenor.com/lQYke9sNxCJ.gif 
   
 ### Minhas Habilidades
 
