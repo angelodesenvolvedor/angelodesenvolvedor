@@ -1,7 +1,8 @@
 ###  Olá! eu sou o Ângelo Silvano
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 💻📚 Atualmente, estou cursando Bacharelado em Tecnologia da Informação.
+- 📚 Atualmente, estou cursando Bacharelado em Tecnologia da Informação.
+- 👨‍💻💻Atualmente estou me aprimorando nos frameworks.
 
 ### Minhas Habilidades
 
