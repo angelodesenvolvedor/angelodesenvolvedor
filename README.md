@@ -3,7 +3,7 @@
 
 - 📚 Atualmente, estou cursando Bacharelado em Tecnologia da Informação.
 - 👨‍💻 Estou me aprimorando nos frameworks.
-
+https://tenor.com/bVmns.gif 
 ### Minhas Habilidades
 
 <div class="image-container">
