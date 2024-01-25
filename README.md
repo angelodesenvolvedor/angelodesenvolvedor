@@ -3,7 +3,7 @@
 
 - 📚 Atualmente, estou cursando Bacharelado em Tecnologia da Informação.
 - 👨‍💻 Estou me aprimorando nos frameworks.
-<div class="tenor-gif-embed" data-postid="26024704" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-gif-26024704">Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> 
+
 ### Minhas Habilidades
 
 <div class="image-container">
@@ -35,3 +35,4 @@
   <a href="https://www.linkedin.com/in/angelosilvanno/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+https://tenor.com/pt-BR/view/cat-gif-26024704 
