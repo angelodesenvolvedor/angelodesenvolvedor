@@ -2,8 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 📚 Atualmente, estou cursando Bacharelado em Tecnologia da Informação.
-- 👨‍💻 Estou me aprimorando nos frameworks.
-
+- 
 ### Minhas Habilidades
 
 <div class="image-container">
