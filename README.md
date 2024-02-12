@@ -5,11 +5,11 @@
 - 💻 Atualmente estou trabalhando em: Desenvolvimento de projetos na área do front-end.
 
 ## Estou aprendendo 
-
+<div>
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="60" height="60" />
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" />
-
+</div>
 
 ## Estatísticas GitHub
 <div>
