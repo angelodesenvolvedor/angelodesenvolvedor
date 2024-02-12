@@ -6,13 +6,11 @@
 
 ## Estou aprendendo 
 
-<div class="image-container">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" />
-</div>
 
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
 ## Estatísticas GitHub
 <div>
 <a href="https://github.com/angelodesenvolvedor">
