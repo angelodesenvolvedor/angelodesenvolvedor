@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" />
 </div>
 
-## Estatísticas GitHub
+## Estatísticas GitHub 📊
 <div>
 <a href="https://github.com/angelodesenvolvedor">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelodesenvolvedor&layout=compact&langs_count=7&theme=dracula"/>
