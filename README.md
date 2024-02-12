@@ -1,7 +1,8 @@
 ###  Olá! eu sou o Ângelo Silvano
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 📚 Atualmente, estou cursando Tecnologia da Informação e focado em aprender AWS, React e Node.js.
+- 📚 Atualmente, estou cursando Tecnologia da Informação.
+- 💻 Atualmente estou trabalhando em: Desenvolvimento de projetos na área do front-end.
 
 ## Estou aprendendo 
 
