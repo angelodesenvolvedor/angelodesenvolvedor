@@ -12,13 +12,12 @@
 </div>
 
 ## Estatísticas GitHub 
-
 <div>
 <a href="https://github.com/angelodesenvolvedor">
-<img loading="lazy" height="180em" src="https://github.com/angelodesenvolvedor/github-readme-stats"/>
-<img loading="lazy" height="180em" src=" https://github-readme-stats.vercel.app/api?username=angelodesenvolvedor "/>
-</div>  
-
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelodesenvolvedor&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=angelodesenvolvedor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
  ## Contatos:
 <div>
   <a href = "familiasabino14@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
