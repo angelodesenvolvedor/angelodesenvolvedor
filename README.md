@@ -3,8 +3,7 @@
 
 - 📚 Atualmente, estou cursando Tecnologia da Informação.
 - 💻 Atualmente estou trabalhando em: Desenvolvimento de projetos na área do front-end.
-  
-                      Minhas Habilidades         
+ 
 
 ## Estou aprendendo 
 <div>
