@@ -12,9 +12,8 @@
 </div>
 
 ## Estatísticas GitHub 
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelodesenvolvedor&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+https://github-readme-stats.vercel.app/api?username=angelodesenvolvedor
+https://github.com/angelodesenvolvedor/github-readme-stats
 
  ## Contatos:
 <div>
