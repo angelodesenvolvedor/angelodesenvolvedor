@@ -12,8 +12,12 @@
 </div>
 
 ## Estatísticas GitHub 
-https://github-readme-stats.vercel.app/api?username=angelodesenvolvedor
-https://github.com/angelodesenvolvedor/github-readme-stats
+
+<div>
+<a href="https://github.com/angelodesenvolvedor">
+<img loading="lazy" height="180em" src="https://github.com/angelodesenvolvedor/github-readme-stats"/>
+<img loading="lazy" height="180em" src=" https://github-readme-stats.vercel.app/api?username=angelodesenvolvedor "/>
+</div>  
 
  ## Contatos:
 <div>
