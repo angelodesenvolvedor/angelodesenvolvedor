@@ -15,7 +15,7 @@
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelodesenvolvedor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+![Angelo GitHub stats](https://github-readme-stats.vercel.app/api?username=angelodesenvolvedor&theme=dark&show_icons=true)
 ## Contatos: 
 
 <div>
